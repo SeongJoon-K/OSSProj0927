@@ -4,4 +4,3 @@ c
 d
 e
 f
-3-2 5번 origin과 local main의 충돌 발생
